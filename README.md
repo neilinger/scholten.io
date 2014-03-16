@@ -1,4 +1,5 @@
 scholten.io
 ===========
 
-scholten.io main website
+This is the scholten.io main website.
+Further content may be in preparation :P
